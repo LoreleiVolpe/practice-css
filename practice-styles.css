@@ -1,0 +1,30 @@
+body {
+    background-color: #9cabf0;
+    
+}
+
+h1 {
+    color: blueviolet;
+    font-style: italic;
+    font-size: 32px;
+    font-family: Garamond, Helvetica, serif;
+}
+
+table { border: blueviolet solid 3px;
+    width: 50%;
+}
+
+thead {
+    text-align: left;
+}
+
+label {
+    display: block;
+}
+
+#submit-btn {
+    border-color: blueviolet;
+    border-style: dashed;
+    border-width: 4px;
+    display: block;
+}
